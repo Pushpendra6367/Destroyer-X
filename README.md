@@ -1,6 +1,6 @@
 
 
-[![callmevp/Destroyer-X](https://img.shields.io/static/v1?label=PsychoBots&message=Astro-UB&color=blue&logo=github)](https://github.com/callmevp/Destroyer-X)
+[![callmevp/Destroyer-X](https://img.shields.io/static/v1?label=Callmevp&message=Destroyer-X&color=blue&logo=github)](https://github.com/callmevp/Destroyer-X)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
 
 
